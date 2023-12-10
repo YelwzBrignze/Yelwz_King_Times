@@ -39,14 +39,14 @@ ReligionIcons/Hyperiex Nova
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Syndria Operations
+ReligionIcons/Confedarism
   rotate: false
   xy: 760, 640
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Britain
+ReligionIcons/Infinitius Cult
   rotate: false
   xy: 1948, 1604
   size: 84, 100
@@ -60,14 +60,14 @@ ReligionIcons/Mafiakuza Gang
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/The Beyond
+ReligionIcons/Beyond
   rotate: false
   xy: 1300, 532
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/The Current
+ReligionIcons/Current
   rotate: false
   xy: 1408, 532
   size: 100, 100
@@ -81,35 +81,35 @@ ReligionIcons/The Force
   orig: 99, 100
   offset: 0, 0
   index: -1
-ReligionIcons/The Mist
+ReligionIcons/Mist
   rotate: false
   xy: 1840, 526
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/The Presence
+ReligionIcons/Presence
   rotate: false
   xy: 1624, 452
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/The Sight
+ReligionIcons/Sight
   rotate: false
   xy: 1732, 452
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/The Tide
+ReligionIcons/Tide
   rotate: false
   xy: 652, 428
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/The Wind
+ReligionIcons/Wind
   rotate: false
   xy: 4, 424
   size: 100, 100
