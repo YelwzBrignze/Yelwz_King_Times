@@ -1,0 +1,13 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Ashla
+  rotate: false
+  xy: 868, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
