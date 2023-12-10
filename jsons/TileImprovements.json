@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Farm",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+        "food": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Agriculture",
+        "uniques": ["Can be built outside your borders",
+            "Can also be built on tiles adjacent to fresh water <in [Land] tiles>",
+            "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+            "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Can only be built to improve a resource <in [Strategic resource] tiles>",
+            "Can only be built to improve a resource <in [Bonus resource] tiles>",
+            "Can only be built to improve a resource <in [Luxury resource] tiles>",
+            "Pillaging this improvement yields approximately [+18 Gold]"
+        ],
+        "shortcutKey": "F"
+    },
+    {
+        "name": "Lumber mill",
+        "terrainsCanBeBuiltOn": ["Forest"],
+        "production": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Bronze Working",
+        "uniques": ["Can be built outside your borders",
+            "[+1 Production] <after discovering [Steel]>",
+            "Can only be built to improve a resource <in [Strategic resource] tiles>",
+            "Can only be built to improve a resource <in [Bonus resource] tiles>",
+            "Can only be built to improve a resource <in [Luxury resource] tiles>",
+            "Pillaging this improvement yields approximately [+10 Gold]"
+        ],
+        "shortcutKey": "L"
+    },
+    {
+        "name": "Oil well",
+        "turnsToBuild": 9,
+        "techRequired": "Biology",
+        "uniques": ["Can be built outside your borders",
+            "Can only be built to improve a resource",
+            "Cannot be built on [Water] tiles",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ],
+        "shortcutKey": "W"
+    },
+    {
+        "name": "Offshore Platform",
+        "turnsToBuild": 9,
+        "techRequired": "Refrigeration",
+        "uniques": ["Can be built outside your borders",
+            "Can only be built to improve a resource",
+            "Can only be built on [Water] tiles",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ],
+        "shortcutKey": "P"
+    },
+    {
+        "name": "Mine",
+        "terrainsCanBeBuiltOn": ["Hill"],
+        "turnsToBuild": 7,
+        "techRequired": "Mining",
+        "uniques": ["Can be built outside your borders",
+            "[+1 Production] <after discovering [Chemistry]>",
+            "[+1 Production] <in tiles without [Luxury resource]>",
+            "Can only be built to improve a resource <in [Strategic resource] tiles>",
+            "Can only be built to improve a resource <in [Bonus resource] tiles>",
+            "Can only be built to improve a resource <in [Luxury resource] tiles>",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ],
+        "shortcutKey": "M"
+    },
+    {
+        "name": "Trading post",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh"],
+        "gold": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Guilds",
+        "uniques": ["Can be built outside your borders",
+            "[+1 Gold] <after discovering [Economics]>",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ],
+        "shortcutKey": "T"
+    },
+    
+    // Resource-specific
+    {
+        "name": "Camp",
+        "turnsToBuild": 7,
+        "techRequired": "Trapping",
+        "uniques": ["Can be built outside your borders",
+            "Does not need removal of [Forest]",
+            "Does not need removal of [Jungle]",
+            "[+1 Gold] <after discovering [Economics]>",
+            "Can only be built to improve a resource",
+            "Pillaging this improvement yields approximately [+10 Gold]"
+        ],
+        "shortcutKey": "C"
+    },
+    {
+        "name": "Pasture",
+        "turnsToBuild": 8,
+        "techRequired": "Animal Husbandry",
+        "uniques": ["Can be built outside your borders",
+            "[+1 Food] <after discovering [Fertilizer]>",
+            "Can only be built to improve a resource",
+            "Pillaging this improvement yields approximately [+10 Gold]"
+        ],
+        "shortcutKey": "P"
+    },
+    {
+        "name": "Plantation",
+        "turnsToBuild": 6,
+        "techRequired": "Calendar",
+        "uniques": ["Can be built outside your borders",
+            "[+1 Food] <after discovering [Fertilizer]>",
+            "Can only be built to improve a resource",
+            "Pillaging this improvement yields approximately [+10 Gold]"
+        ],
+        "shortcutKey": "P"
+    },
+    {
+        "name": "Quarry",
+        "turnsToBuild": 8,
+        "techRequired": "Masonry",
+        "uniques": ["Can be built outside your borders",
+            "[+1 Production] <after discovering [Chemistry]>",
+            "Can only be built to improve a resource",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ],
+        "shortcutKey": "Q"
+    },
+    {
+        "name": "Fishing Boats",
+        "turnsToBuild": 6,
+        "terrainsCanBeBuiltOn": ["Coast"],
+        "techRequired": "Sailing",
+        "uniques": ["Can be built outside your borders",
+            "[+1 Gold] <after discovering [Compass]>",
+            "Can only be built to improve a resource",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+    },
+    //Civilization unique improvements
+    {
+        "name": "Chateau",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "gold": 1,
+        "culture": 2,
+        "science": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Chivalry",
+        "uniques": [
+            "Gives a defensive bonus of [50]%",
+            "[+2 Gold, +1 Culture] <after discovering [Flight]>",
+            "Must be next to [Luxury resource]",
+            "Cannot be built on [Strategic resource] tiles",
+            "Cannot be built on [Luxury resource] tiles",
+            "Cannot be built on [Bonus resource] tiles",
+            "Only available <with [0] to [0] neighboring [Chateau] tiles>",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+    },
+    {
+        "name": "Polder",
+        "terrainsCanBeBuiltOn": ["Marsh","Flood plains","Coast","Lakes"],
+        "food": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Guilds",
+        "uniques": [
+            "[+1 Food] from [Marsh] tiles",
+            "[+1 Food] from [Flood plains] tiles",
+            "[+1 Production, +2 Gold] <after discovering [Economics]>",
+            "Cannot be built on [Water] tiles <with [0] to [2] neighboring [Land] tiles>",
+            "Cannot be built on [Strategic resource] tiles",
+            "Cannot be built on [Bonus resource] tiles",
+            "Cannot be built on [Luxury resource] tiles",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+    },
+    {
+        "name": "Terrace farm",
+        "terrainsCanBeBuiltOn": ["Hill"],
+        "food": 1,
+        "turnsToBuild": 7,
+        "uniques": [
+            "[+1 Food] for each adjacent [Mountain]",
+            "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+            "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Cannot be built on [Strategic resource] tiles",
+            "Cannot be built on [Luxury resource] tiles",
+            "Cannot be built on [Bonus resource] tiles",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ],
+        "techRequired": "Construction",
+        "shortcutKey": "F"
+    }
+        ]
+    }
+]
