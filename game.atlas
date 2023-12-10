@@ -364,3 +364,106 @@ ReligionIcons/Teotl
   orig: 200, 200
   offset: 0, 0
   index: -1
+
+game5.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Capitalism
+  rotate: false
+  xy: 220, 1408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Divine Engine
+  rotate: false
+  xy: 1192, 1076
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Ghost Dance
+  rotate: false
+  xy: 544, 752
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Humanism
+  rotate: false
+  xy: 1192, 536
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Idolatry
+  rotate: false
+  xy: 1624, 536
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Liberty
+  rotate: false
+  xy: 1624, 428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Naturism
+  rotate: false
+  xy: 1732, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Objectivism
+  rotate: false
+  xy: 328, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Paganism
+  rotate: false
+  xy: 1300, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+game6.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Polytheism
+  rotate: false
+  xy: 112, 1942
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Posadism
+  rotate: false
+  xy: 4, 1726
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Rastafari
+  rotate: false
+  xy: 436, 1726
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Rongorongo
+  rotate: false
+  xy: 328, 1294
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
