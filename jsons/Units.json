@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Knivex",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 10,
+		"interceptRange": 1,
+		"uniques": ["Limited to [12] per Civilization","Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
+		"uniqueText": ["Originally from Colziand, this unit is a gift from King Raymond"],
+		"requiredTech": "Steel",
+		"promotions": ["Drill III","Formation II","Cover II"],
+		"attackSound": "lshit"
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Darth Vader",
+				"imageSize": 256 }]
+	}
+]
