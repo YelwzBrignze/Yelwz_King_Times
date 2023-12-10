@@ -316,3 +316,51 @@ ReligionIcons/Xenocult
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Animism
+  rotate: false
+  xy: 212, 1275
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/Reformed Catholicism
+  rotate: false
+  xy: 212, 1067
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/New Orthodoxy
+  rotate: false
+  xy: 212, 859
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/Jainism
+  rotate: false
+  xy: 4, 443
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/Baptist Method
+  rotate: false
+  xy: 212, 235
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/Teotl
+  rotate: false
+  xy: 212, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
