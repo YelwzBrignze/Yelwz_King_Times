@@ -11,3 +11,108 @@ ReligionIcons/Ashla
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Magroonaguio
+  rotate: false
+  xy: 1624, 1208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Fullysia
+  rotate: false
+  xy: 1192, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Suzainswellia
+  rotate: false
+  xy: 1300, 1180
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Salumi
+  rotate: false
+  xy: 4, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Syndria Operations
+  rotate: false
+  xy: 760, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Britain
+  rotate: false
+  xy: 1948, 1604
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Jerdain Organization
+  rotate: false
+  xy: 1624, 560
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Beyond
+  rotate: false
+  xy: 1300, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Current
+  rotate: false
+  xy: 1408, 532
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Force
+  rotate: false
+  xy: 544, 424
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Mist
+  rotate: false
+  xy: 1840, 526
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Presence
+  rotate: false
+  xy: 1624, 452
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Sight
+  rotate: false
+  xy: 1732, 452
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Tide
+  rotate: false
+  xy: 652, 428
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/The Wind
+  rotate: false
+  xy: 4, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
