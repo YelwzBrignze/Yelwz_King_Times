@@ -116,3 +116,72 @@ ReligionIcons/The Wind
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+game1.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Atheism
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Catholicism
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Eastern Orthodoxy
+  rotate: false
+  xy: 700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Turtlesism
+  rotate: false
+  xy: 700, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Customization
+  rotate: false
+  xy: 700, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Others
+  rotate: false
+  xy: 500, 400
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/Islam Shia
+  rotate: false
+  xy: 700, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Uncivism
+  rotate: false
+  xy: 700, 600
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Transistorism
+  rotate: false
+  xy: 700, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
