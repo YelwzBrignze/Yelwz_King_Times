@@ -11,28 +11,28 @@ ReligionIcons/Ashla
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Magroonaguio
+ReligionIcons/Deitism
   rotate: false
   xy: 1624, 1208
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Fullysia
+ReligionIcons/Empiress
   rotate: false
   xy: 1192, 1180
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Suzainswellia
+ReligionIcons/Thalassoblicianism
   rotate: false
   xy: 1300, 1180
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Salumi
+ReligionIcons/Hyperiex Nova
   rotate: false
   xy: 4, 640
   size: 100, 100
@@ -53,7 +53,7 @@ ReligionIcons/Britain
   orig: 84, 100
   offset: 0, 0
   index: -1
-ReligionIcons/Jerdain Organization
+ReligionIcons/Mafiakuza Gang
   rotate: false
   xy: 1624, 560
   size: 100, 100
@@ -164,7 +164,7 @@ ReligionIcons/Others
   orig: 200, 200
   offset: 0, 0
   index: -1
-ReligionIcons/Islam Shia
+ReligionIcons/Shia
   rotate: false
   xy: 700, 500
   size: 100, 100
@@ -181,6 +181,26 @@ ReligionIcons/Uncivism
 ReligionIcons/Transistorism
   rotate: false
   xy: 700, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Christ's Cross
+  rotate: false
+  xy: 328, 386
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Protestantism
+  rotate: false
+  xy: 976, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
