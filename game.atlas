@@ -514,3 +514,194 @@ ReligionIcons/Animism
   orig: 200, 200
   offset: 0, 0
   index: -1
+
+game9.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Holy Place
+  rotate: false
+  xy: 1460, 1552
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Holy Place
+  rotate: false
+  xy: 212, 1188
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+game10.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Colossal Head
+  rotate: false
+  xy: 836, 1144
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert Plantation
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kurgan
+  rotate: false
+  xy: 1976, 1976
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seaside Stall
+  rotate: false
+  xy: 628, 900
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Colossal Head
+  rotate: false
+  xy: 620, 1804
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Desert Plantation
+  rotate: false
+  xy: 4, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kurgan
+  rotate: false
+  xy: 212, 980
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Seaside Stall
+  rotate: false
+  xy: 628, 1388
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+game11.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Idendo
+  rotate: false
+  xy: 256, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+
+game6.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Desert+Dzirvanas
+  rotate: false
+  xy: 0, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Flood plains+Dzirvanas
+  rotate: false
+  xy: 32, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Dzirvanas
+  rotate: false
+  xy: 64, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains+Dzirvanas
+  rotate: false
+  xy: 96, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow+Dzirvanas
+  rotate: false
+  xy: 128, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Dzirvanas
+  rotate: false
+  xy: 160, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kampung
+  rotate: false
+  xy: 64, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+game12.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPromotionIcons/Blitzkrieg
+  rotate: false
+  xy: 950, 950
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kampung
+  rotate: false
+  xy: 100, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Idendo
+  rotate: false
+  xy: 100, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Jolopong
+  rotate: false
+  xy: 0, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Dzirvanas
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
