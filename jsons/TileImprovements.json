@@ -192,6 +192,78 @@
         ],
         "techRequired": "Construction",
         "shortcutKey": "F"
-    }
-       
+    },
+      {
+       "name": "Kampung",
+       "terrainsCanBeBuiltOn": ["Land","Coast","Lakes"],
+       "production":1,
+       "techRequired":"Optics",
+       "turnsToBuild": 7,
+       "uniques": ["Can be built outside your borders","[+1 Food, +1 Production] for each adjacent [Fishing Boats]","[+1 Food] for each adjacent [Great Improvement]","[+1 Production] <after discovering [Astronomy]>",
+			"[+1 Culture] <after discovering [Flight]>"]
+   },
+	{
+		"name": "Idendo",
+		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
+		"food": 1,
+		"turnsToBuild": 6,
+		"uniques": ["Can be built outside your borders","[+1 Food] for each adjacent [Camp]","[+1 Production, +1 Food] <after discovering [Industrialization]>","[+1 Faith] <after discovering [Theology]>"],
+		"techRequired": "Mathematics"
+	},
+	{
+		"name": "Jolopong",
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Engineering",
+		"terrainsCanBeBuiltOn": ["Land","Coast","Lakes"],
+		"uniques": [
+"[+2 Gold] <after discovering [Economics]>",
+"[+1 Production] for each adjacent [Jolopong] <after discovering [Industrialization]>",
+"Can be built outside your borders"]
+	},
+	{
+		"name": "Seaside Stall",
+		"gold": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 8,
+		"techRequired": "Currency",
+		"uniques": ["Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
+	},
+		{
+		"name": "Colossal Head",
+		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
+		"faith": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Calendar",
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>","[+1 Science] for each adjacent [Great Improvement]","[+1 Science] for each adjacent [Great Improvement] <after discovering [Astronomy]>"]
+	},
+		{
+		"name": "Desert Plantation",
+		"terrainsCanBeBuiltOn": ["Desert"],
+		"gold": 2,
+		"turnsToBuild": 6,
+		"techRequired": "Mathematics",
+		"uniques": ["Cannot be built on [Luxury resource] tiles","Provides [1] [Incense]","[+1 Gold] <after discovering [Economics]>","Cannot be built on [Flood plains] tiles"]
+	},
+			{
+		"name": "Kurgan",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"culture": 2,
+		"faith": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Masonry",
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>"]
+	},
+	{
+		"name": "Holy Place",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"turnsToBuild": 8,
+		"happiness": 2,
+		"culture": 1,
+		"food": 1,
+		"faith": 1,
+		"techRequired": "Pottery",
+		"uniques": ["Gives a defensive bonus of [50]%"]
+	} 
 ]
