@@ -467,3 +467,37 @@ ReligionIcons/Rongorongo
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+game7.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Greco-Roman Mythology
+  rotate: false
+  xy: 652, 17
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+ReligionIcons/Chakana
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Mesoamerican Starsun
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Sword of Kasblah
+  rotate: false
+  xy: 759, 17
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
