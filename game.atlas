@@ -670,13 +670,6 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitPromotionIcons/Blitzkrieg
-  rotate: false
-  xy: 950, 950
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 ImprovementIcons/Kampung
   rotate: false
   xy: 100, 800
