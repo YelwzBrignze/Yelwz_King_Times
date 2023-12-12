@@ -197,7 +197,7 @@
        "name": "Kampung Teluk",
 	"uniqueTo": "Indonesia",
 		"replaces": "Trading post",
-       "terrainsCanBeBuiltOn": ["Land","Coast","Lakes"],
+       "terrainsCanBeBuiltOn": ["Coast"],
        "production":1,
        "techRequired":"Optics",
        "turnsToBuild": 7,
@@ -277,26 +277,28 @@
 		"gold": 2,
 		"turnsToBuild": 6,
 		"techRequired": "Mathematics",
-		"uniques": ["Cannot be built on [Luxury resource] tiles","Provides [1] [Incense]","[+1 Gold] <after discovering [Economics]>","Cannot be built on [Flood plains] tiles"]
+		"uniques": ["Cannot be built on [Luxury resource] tiles","[+1 Gold] <after discovering [Economics]>","Cannot be built on [Flood plains] tiles"]
 	},
 			{
 		"name": "Kurgan",
+		"uniqueTo": "Golden Horde",
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"culture": 2,
-		"faith": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Culture] <after discovering [Archaeology]>"]
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>","Gives a defensive bonus of [50]%","Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Holy Place",
-		"terrainsCanBeBuiltOn": ["Plains"],
+		"uniqueTo": "Israel",
+		"replaces": "Holy Site",
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 8,
 		"happiness": 2,
 		"culture": 1,
 		"food": 1,
-		"faith": 1,
-		"techRequired": "Pottery",
-		"uniques": ["Gives a defensive bonus of [50]%"]
+		"faith": 6,
+		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
+			"[+1 Culture] <after discovering [Archaeology]>","Gives a defensive bonus of [50]%"]
 	} 
 ]
